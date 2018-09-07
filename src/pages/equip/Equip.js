@@ -9,6 +9,7 @@ import React from 'react';
 
 class Equip extends React.Components{
 
+  
 }
 
 export default Equip;

@@ -250,6 +250,18 @@ export default [
         ],
       },
       {
+        path:'/equip',
+        icon:'user',
+        name:'equip',
+        routes: [
+          {
+            path: '/equip/equip',
+            name: 'equip',
+            component: './Equip/Equip',
+          },
+        ],
+      },
+      {
         component: '404',
       },
     ],

@@ -197,6 +197,7 @@ module.exports = {
     "yoda": [2, "never"],//禁止尤达条件
     "space-return-throw-case":0,
     "no-empty-label":0,
+    "newline-after-var":0,
   },
   settings: {
     polyfills: ['fetch', 'promises', 'url'],
