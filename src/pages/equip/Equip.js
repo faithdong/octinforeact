@@ -7,8 +7,15 @@
 
 import React from 'react';
 
-class Equip extends React.Components{
+class Equip extends React.Component{
 
+  render(){
+    return(
+      <div>
+        <h1>EQUIP</h1>
+      </div>
+    )
+  }
   
 }
 
